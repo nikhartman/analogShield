@@ -36,3 +36,4 @@ or timing issues. For example, to use the shield to drive the X-Y input
 of an oscilloscope to draw a circle, a delay between writing the X and 
 the Y channels produces a ghost ‘ellipse’ drawn during the interim between 
 the X and Y DAC updates.
+
